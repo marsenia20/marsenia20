@@ -1,4 +1,8 @@
 
+<div align="center"> 
+  <img src="https://tse3.mm.bing.net/th?id=OIP.v9Rr1HM2JTxog1N9T-DJcgHaHa&pid=Api&P=0"/>
+</div><br />
+
 <h1 align="center">Hi 👋, I'm Marsenia Tricahyani</h1>
 <h3 align="center">Mahasiswa MDP</h3>
 
